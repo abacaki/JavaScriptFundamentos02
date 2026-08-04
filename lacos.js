@@ -31,7 +31,7 @@
 //     console.log(`Hora: ${hora}`);
 // }
 
-
+//Horas e Minutos
 // for(let hora = 0; hora <=23; hora ++) {
 //     for(let minuto = 0; minuto <=59; minuto ++) {
 //     console.log(`${hora}:${minuto}`);
