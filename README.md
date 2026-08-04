@@ -77,15 +77,15 @@ Durante a aula foram implementados os exemplos como:
 
 * Estruturas condicionais.
 * Operadores lógicos.
-* Estrutura de repetição
-* Problemas utilizando lógica de programação
+* Estrutura de repetição.
+* Problemas utilizando lógica de programação.
 * Desafio final integrando todos os conceitos estudados.
 
 ## Tecnologias
 
-* JavaScript (ES2023).
-* Node.js.
-* Visual Studio Code.
+* JavaScript (ES2023)
+* Node.js
+* Visual Studio Code
 
 ## Competência desenvolvida
 
@@ -93,10 +93,10 @@ Durante a aula foram implementados os exemplos como:
 * Tomada de decisão.
 * Estruturas condicionais.
 * Organização de algoritmos.
-* Resolução de problemas
+* Resolução de problemas.
 
 ## Material de apoio
 
-* JavaScript.
-* Node.js.
-* MON Web Docs.
+* JavaScript
+* Node.js
+* MON Web Docs
