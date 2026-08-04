@@ -21,3 +21,10 @@ console.log(numero % 5);  // Operador - Módulo
 // === Estritamente
 // != Diferente
 // !== Estritamente Diferente
+
+console.log(25 > 35); //false
+console.log(25 > 10); //true
+console.log(25 < 10); //false
+
+console.log(50 == "50"); //true
+console.log(50 === "50"); //false
